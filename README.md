@@ -86,7 +86,7 @@ supply-chain-analysis/
 ├── README.md
 ├── data/
 │   ├── Supply_Chain_Cleaned_Data.csv
-│   └── cleaned/
+│   └── Supply_Chain_Messy_Data.csv
 ├── notebooks/
 │   └── data_cleaning.ipynb
 ├── dashboard/
