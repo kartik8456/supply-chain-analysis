@@ -97,4 +97,4 @@ supply-chain-analysis/
 
 ## Author
 
-**Ashok KumarJena** | [LinkedIn](www.linkedin.com/in/ashokkumarjena)
+**Ashok Kumar Jena** | [LinkedIn](https://www.linkedin.com/in/ashokkumarjena/?isSelfProfile=true)
