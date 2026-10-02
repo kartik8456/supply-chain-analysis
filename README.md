@@ -85,7 +85,7 @@ A static PDF version is also available at `dashboard/Supply_Chain_Dashboard.pdf`
 supply-chain-analysis/
 ├── README.md
 ├── data/
-│   ├── raw/
+│   ├── Supply_Chain_Cleaned_Data.csv
 │   └── cleaned/
 ├── notebooks/
 │   └── data_cleaning.ipynb
